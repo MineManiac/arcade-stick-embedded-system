@@ -1,4 +1,4 @@
-# Projeto Embarcados - HADOUKEN
+# Arcade Stick Embedded System
 
 Desenvolvendo um controle remoto.
 
